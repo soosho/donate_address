@@ -1,6 +1,6 @@
 {
-    { "BCH", "bitcoincash:qre4tx9c7djqh9mupkndtq2lzkn5adztcuu7fn0q2x" },
-    { "DOGE", "DGak8Y1DE6WX1vU3C7ZnJYeXPkxAqzXC8o" },
-    { "LTC", "M9BB8ZDN55xBCES8X4FamRpsqjF3XXTG6t" },
-    { "BTC", "1DQqv9A8kDna5qFQRTRVZQxCtzQeXDwyjh" }
-};
+  "BCH": "bitcoincash:qre4tx9c7djqh9mupkndtq2lzkn5adztcuu7fn0q2x",
+  "DOGE": "DGak8Y1DE6WX1vU3C7ZnJYeXPkxAqzXC8o",
+  "LTC": "M9BB8ZDN55xBCES8X4FamRpsqjF3XXTG6t",
+  "BTC": "1DQqv9A8kDna5qFQRTRVZQxCtzQeXDwyjh"
+}
